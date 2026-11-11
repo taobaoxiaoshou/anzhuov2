@@ -1,8 +1,7 @@
 win电脑clash 
-服务器2
-trojan://k2ebo0g0coow9z9e@aiguoyun1.duckdns.org:16041?peer=aiguoyun1.duckdns.org&alpn=h2,http/1.1&fingerprint=chrome&ech=cloudflare-ech.com%2Bhttps://dns.alidns.com/dns-query#11%E6%9C%8810%E6%97%A5%E6%9B%B4%E6%96%B0
+服务器2测试tro基础班
+trojan://xrdt10uy6pb6is9q@aiguoyun1.duckdns.org:11198?peer=aiguoyun1.duckdns.org&alpn=h2,http/1.1&fingerprint=chrome&ech=cloudflare-ech.com%2Bhttps://dns.alidns.com/dns-query#11%E6%9C%8811%E6%97%A5%E6%9B%B4%E6%96%B0
 1121-16到50和1122的50个
-trojan://a455aa3a-376b-444a-a175-3cb9dd4ac1c3@xiaozhux8.xiaozhu9545515.com:49213?allowInsecure=1&peer=www.itunes.com&tfo=1#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF%2002
 trojan://fdc55089-4553-4b6a-ab24-50cdb48b477b@xiaozhux8.xiaozhu9545515.com:49213?allowInsecure=1&peer=www.itunes.com&tfo=1#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF%2002
 trojan://d6598340-12eb-40ed-be7c-242a17f26c3d@xiaozhux8.xiaozhu9545515.com:41273?allowInsecure=1&peer=www.itunes.com&tfo=1#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%AC1
 trojan://e7d50715-f845-4a35-8566-921886adbf0e@xiaozhux8.xiaozhu9545515.com:41273?allowInsecure=1&peer=www.itunes.com&tfo=1#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%AC2
@@ -69,7 +68,8 @@ trojan://ff3a6776-809e-4931-ad5e-39f543a741b8@xiaozhux8.xiaozhu9545515.com:41273
 trojan://b67395d4-e3ba-4774-987e-d06a175e3a9a@xiaozhux8.xiaozhu9545515.com:49213?allowInsecure=1&peer=www.itunes.com&tfo=1#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF%2001
 trojan://a1cd4f97-d44e-4284-85a0-3c72afb9c1ce@xiaozhux8.xiaozhu9545515.com:49213?allowInsecure=1&peer=www.itunes.com&tfo=1#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF%2002
 trojan://a6348668-d04f-4a08-afe0-309e36c28a44@xiaozhux8.xiaozhu9545515.com:41273?allowInsecure=1&peer=www.itunes.com&tfo=1#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%AC1
-gemini专线服务1
-trojan://48a4r9yt7lxr60cs@aiguoyun.duckdns.org:26364?peer=aiguoyun.duckdns.org&alpn=h2,http/1.1&fingerprint=chrome&ech=AGf%2BDQBjAAAgACAoxQFCfBNphETDK4R7aMzKXbyPuY0PUMpAiuRBSAAnFgAkAAEAAQABAAIAAQADAAIAAQACAAIAAgADAAMAAQADAAIAAwADABRhaWd1b3l1bi5kdWNrZG5zLm9yZwAA#gemini%E4%B8%93%E7%BA%BF1
-trojan://48a4r9yt7lxr60cs@aiguoyun.duckdns.org:33698?peer=aiguoyun.duckdns.org&alpn=h2,http/1.1&fingerprint=chrome&ech=AGf%2BDQBjAAAgACAoxQFCfBNphETDK4R7aMzKXbyPuY0PUMpAiuRBSAAnFgAkAAEAAQABAAIAAQADAAIAAQACAAIAAgADAAMAAQADAAIAAwADABRhaWd1b3l1bi5kdWNrZG5zLm9yZwAA#gemini%E4%B8%93%E7%BA%BF2
-trojan://48a4r9yt7lxr60cs@aiguoyun.duckdns.org:35557?peer=aiguoyun.duckdns.org&alpn=h2,http/1.1&fingerprint=chrome&ech=AGf%2BDQBjAAAgACAoxQFCfBNphETDK4R7aMzKXbyPuY0PUMpAiuRBSAAnFgAkAAEAAQABAAIAAQADAAIAAQACAAIAAgADAAMAAQADAAIAAwADABRhaWd1b3l1bi5kdWNrZG5zLm9yZwAA#gemini%E4%B8%93%E7%BA%BF3
+gemini专线服务2clashwin专用最后一个是ws
+trojan://xrdt10uy6pb6is9q@aiguoyun1.duckdns.org:37531?peer=aiguoyun1.duckdns.org&alpn=h2,http/1.1&fingerprint=chrome&ech=cloudflare-ech.com%2Bhttps://dns.alidns.com/dns-query#Gemini%E4%B8%93%E7%BA%BF1
+trojan://xrdt10uy6pb6is9q@aiguoyun1.duckdns.org:26360?peer=aiguoyun1.duckdns.org&alpn=h2,http/1.1&fingerprint=chrome&ech=cloudflare-ech.com%2Bhttps://dns.alidns.com/dns-query#Gemini%E4%B8%93%E7%BA%BF2
+trojan://xrdt10uy6pb6is9q@aiguoyun1.duckdns.org:20958?peer=aiguoyun1.duckdns.org&alpn=h2,http/1.1&fingerprint=chrome&ech=cloudflare-ech.com%2Bhttps://dns.alidns.com/dns-query#Gemini%E4%B8%93%E7%BA%BF3
+trojan://xrdt10uy6pb6is9q@aiguoyun1.duckdns.org:19681?peer=aiguoyun1.duckdns.org&alpn=http/1.1,h3&plugin=obfs-local;obfs%3Dwebsocket;obfs-host%3Daiguoyun1.duckdns.org;obfs-uri%3D/ws&fingerprint=chrome&ech=AGj%2BDQBkAAAgACBYUTEbM8S3YyXcG06ZwzVDT33xr5KYkOMqWwNbS4%2BMXAAkAAEAAQABAAIAAQADAAIAAQACAAIAAgADAAMAAQADAAIAAwADABVhaWd1b3l1bjEuZHVja2Rucy5vcmcAAA%3D%3D#clash%E6%B5%8B%E8%AF%95
