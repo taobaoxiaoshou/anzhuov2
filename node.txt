@@ -1,6 +1,10 @@
 win电脑clash 
 服务器2测试tro基础班
 trojan://xrdt10uy6pb6is9q@aiguoyun1.duckdns.org:11198?peer=aiguoyun1.duckdns.org&alpn=h2,http/1.1&fingerprint=chrome&ech=cloudflare-ech.com%2Bhttps://dns.alidns.com/dns-query#11%E6%9C%8811%E6%97%A5%E6%9B%B4%E6%96%B0
+服务器3
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIjMtR2VtaW5pMSIsDQogICJhZGQiOiAiYXBpLnN5c3Rtc2VydmljZS5jb20iLA0KICAicG9ydCI6ICI0NzM5MiIsDQogICJpZCI6ICIxZTNjYjE2Ni0zZjU1LTRiNmItODJmZS1iNTRhY2NkMDU3NjYiLA0KICAiYWlkIjogIjAiLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogImFwaS5zeXN0bXNlcnZpY2UuY29tIiwNCiAgInBhdGgiOiAiL3dzIiwNCiAgInRscyI6ICJ0bHMiDQp9
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIjMtR2VtaW5pMiIsDQogICJhZGQiOiAiYXBpLnN5c3Rtc2VydmljZS5jb20iLA0KICAicG9ydCI6ICIyNjA0NCIsDQogICJpZCI6ICIxZTNjYjE2Ni0zZjU1LTRiNmItODJmZS1iNTRhY2NkMDU3NjYiLA0KICAiYWlkIjogIjAiLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogImFwaS5zeXN0bXNlcnZpY2UuY29tIiwNCiAgInBhdGgiOiAiL3dzIiwNCiAgInRscyI6ICJ0bHMiDQp9
+trojan://jsl3xdbagcspslt9@api.systmservice.com:47031?alpn=h2%2Chttp%2F1.1%2Ch3&fp=chrome&security=tls&sni=api.systmservice.com&type=tcp#tro-7ngd1dqonp
 1121-16到50和1122的50个
 trojan://fdc55089-4553-4b6a-ab24-50cdb48b477b@xiaozhux9.xiaozhu9545515.com:49213?allowInsecure=1&peer=www.itunes.com&tfo=1#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF%2002
 trojan://d6598340-12eb-40ed-be7c-242a17f26c3d@xiaozhux9.xiaozhu9545515.com:41273?allowInsecure=1&peer=www.itunes.com&tfo=1#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%AC1
